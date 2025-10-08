@@ -1,8 +1,6 @@
-# web-dev-starter
+# M7.2 Lab
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This project helps me practice my CSS styling skills with a pre-made html file.
 
 ## Getting Started
 
@@ -22,8 +20,15 @@ you do not need to setup a local server to run the project.
 
 ## Testing
 
-To run the tests for the project, run the following command:
+No tests to run for this project.
 
 ```bash
 npm test
 ```
+
+## Sources
+
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Positioning - Nav bar
+https://stackoverflow.com/questions/19179424/how-to-wrap-text-around-an-image-using-html-css
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Floats
